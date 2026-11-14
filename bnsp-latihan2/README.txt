@@ -14,7 +14,7 @@ CARA INSTALASI:
 5. Import file database.sql.
 6. Buka http://localhost/pendaftaran_siswa_admin/setup_admin.php satu kali.
 7. Setelah muncul pesan akun berhasil dibuat, HAPUS file setup_admin.php.
-8. Buka http://localhost/pendaftaran_siswa_admin/login.php
+8. Buka http://localhost/bnsp/bnsp-latihan2/login.php
 
 LOGIN AWAL:
 Username: admin
